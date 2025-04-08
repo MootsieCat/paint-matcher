@@ -1,0 +1,13 @@
+{
+    "version": "1.0", 
+    "vendor_list": [
+        {
+            "1": "Citadel",
+            "2": "Vallejo Game",
+            "3": "Vallejo Model",
+            "4": "P3 Formula",
+            "5": "Army Painter",
+            "6": "Colour Forge"
+        }
+    ]
+}
