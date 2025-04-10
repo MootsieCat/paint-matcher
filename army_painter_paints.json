@@ -1,4 +1,6 @@
-[
+{
+  "version": "1.0.0",
+  "data": [
   {
     "Army_Painter": {
       "name": "Abomination Gore",
@@ -2592,3 +2594,4 @@
     }
   }
 ]
+}
