@@ -1,1487 +1,940 @@
-[
-  {
-    "Vallejo_Model": {
-      "name": "Arcane Blue",
-      "type": "Formula",
-      "hex": "#7acfd9"
-    },
-    "Citadel": {
-      "name": "Baharroth Blue",
-      "type": "Edge",
-      "hex": "#58C1CD"
-    },
-    "Vallejo_Game": {
-      "name": "Verdigris",
-      "type": "Game",
-      "hex": "#b3ceca"
-    },
-    "P3": {
-      "name": "Pale Grey Blue",
-      "type": "Model",
-      "hex": "#bacdd0"
-    },
-    "Army_Painter": {
-      "name": "Toxic Mist",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Bastion Grey",
-      "type": "Formula",
-      "hex": "#777965"
-    },
-    "Citadel": {
-      "name": "Dawnstone",
-      "type": "Base Layer",
-      "hex": "#7b7e74"
-    },
-    "Vallejo_Game": {
-      "name": "Khaki",
-      "type": "Game",
-      "hex": "#8c806d"
-    },
-    "P3": {
-      "name": "Green Grey",
-      "type": "Model",
-      "hex": "#827e61"
-    },
-    "Army_Painter": {
-      "name": "Filthy Cape",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Battledress Green",
-      "type": "Formula",
-      "hex": "#757232"
-    },
-    "Citadel": {
-      "name": "Death World Forest",
-      "type": "Base Layer",
-      "hex": "#666c2d"
-    },
-    "Vallejo_Game": {
-      "name": "Camoflage Green",
-      "type": "Game",
-      "hex": "#71753a"
-    },
-    "P3": {
-      "name": "Green Brown",
-      "type": "Model",
-      "hex": "#8d7b55"
-    },
-    "Army_Painter": {
-      "name": "Commando Green",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Battlefield Brown",
-      "type": "Formula",
-      "hex": "#32251c"
-    },
-    "Citadel": {
-      "name": "Dryad Bark",
-      "type": "Base Layer",
-      "hex": "#3b342e"
-    },
-    "Vallejo_Game": {
-      "name": "Smokey Ink",
-      "type": "Game",
-      "hex": "#2b2325"
-    },
-    "P3": {
-      "name": "German Cam. Black Brown",
-      "type": "Model",
-      "hex": "#553528"
-    },
-    "Army_Painter": {
-      "name": "Matt Black",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Beast Hide",
-      "type": "Formula",
-      "hex": "#b1956b"
-    },
-    "Citadel": {
-      "name": "Karak Stone",
-      "type": "Base Layer",
-      "hex": "#c1a069"
-    },
-    "Vallejo_Game": {
-      "name": "Heavy Khaki",
-      "type": "Game",
-      "hex": "#9d965d"
-    },
-    "P3": {
-      "name": "Iraqi Sand",
-      "type": "Model",
-      "hex": "#b89972"
-    },
-    "Army_Painter": {
-      "name": "Kobold Skin",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Beaten Purple",
-      "type": "Formula",
-      "hex": "#552a72"
-    },
-    "Citadel": {
-      "name": "Xereus Purple",
-      "type": "Base Layer",
-      "hex": "#4b205c"
-    },
-    "Vallejo_Game": {
-      "name": "Heavy Violet",
-      "type": "Game",
-      "hex": "#4c2e65"
-    },
-    "P3": {
-      "name": "Royal Purple",
-      "type": "Model",
-      "hex": "#4b2967"
-    },
-    "Army_Painter": {
-      "name": "Alien Purple",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Bloodstone",
-      "type": "Formula",
-      "hex": "#9e4822"
-    },
-    "Citadel": {
-      "name": "Skrag Brown",
-      "type": "Base Layer",
-      "hex": "#954b00"
-    },
-    "Vallejo_Game": {
-      "name": "Parasite Brown",
-      "type": "Game",
-      "hex": "#b1481f"
-    },
-    "P3": {
-      "name": "Red Leather",
-      "type": "Model",
-      "hex": "#93453d"
-    },
-    "Army_Painter": {
-      "name": "Fur Brown",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Bloodtracker Brown",
-      "type": "Formula",
-      "hex": "#a66a28"
-    },
-    "Citadel": {
-      "name": "Balor Brown",
-      "type": "Base Layer",
-      "hex": "#915e02"
-    },
-    "Vallejo_Game": {
-      "name": "Heavy Ochre",
-      "type": "Game",
-      "hex": "#a87536"
-    },
-    "P3": {
-      "name": "Ochre Brown",
-      "type": "Model",
-      "hex": "#a77237"
-    },
-    "Army_Painter": {
-      "name": "Hemp Rope",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Bootstrap Leather",
-      "type": "Formula",
-      "hex": "#956939"
-    },
-    "Citadel": {
-      "name": "Balor Brown",
-      "type": "Base Layer",
-      "hex": "#915e02"
-    },
-    "Vallejo_Game": {
-      "name": "Heavy Ochre",
-      "type": "Game",
-      "hex": "#a87536"
-    },
-    "P3": {
-      "name": "Flat Earth",
-      "type": "Model",
-      "hex": "#87643c"
-    },
-    "Army_Painter": {
-      "name": "Monster Brown",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Carnal Pink",
-      "type": "Formula",
-      "hex": "#fae2ec"
-    },
-    "Citadel": {
-      "name": "Ceramite White",
-      "type": "Base Layer",
-      "hex": "#ffffff"
-    },
-    "Vallejo_Game": {
-      "name": "Dead White",
-      "type": "Game",
-      "hex": "#ffffff"
-    },
-    "P3": {
-      "name": "White Grey",
-      "type": "Model",
-      "hex": "#eef1ec"
-    },
-    "Army_Painter": {
-      "name": "Mummy Robes",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Coal Black",
-      "type": "Formula",
-      "hex": "#005a61"
-    },
-    "Citadel": {
-      "name": "Sotek Green",
-      "type": "Base Layer",
-      "hex": "#056976"
-    },
-    "Vallejo_Game": {
-      "name": "Turquoise",
-      "type": "Game",
-      "hex": "#03676f"
-    },
-    "P3": {
-      "name": "Bronce Green",
-      "type": "Model",
-      "hex": "#2a534f"
-    },
-    "Army_Painter": {
-      "name": "Wizards Orb",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Cryx Bane Base",
-      "type": "Formula",
-      "hex": "#303924"
-    },
-    "Citadel": {
-      "name": "Dryad Bark",
-      "type": "Base Layer",
-      "hex": "#3b342e"
-    },
-    "Vallejo_Game": {
-      "name": "Dark Green",
-      "type": "Game",
-      "hex": "#083c2a"
-    },
-    "P3": {
-      "name": "Yellow Olive",
-      "type": "Model",
-      "hex": "#26392e"
-    },
-    "Army_Painter": {
-      "name": "Necromance Cloak",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Cryx Bane Highlight",
-      "type": "Formula",
-      "hex": "#93907d"
-    },
-    "Citadel": {
-      "name": "Death Guard Armor",
-      "type": "Base Layer",
-      "hex": "#848A66"
-    },
-    "Vallejo_Game": {
-      "name": "Khaki",
-      "type": "Game",
-      "hex": "#8c806d"
-    },
-    "P3": {
-      "name": "Stone Grey",
-      "type": "Model",
-      "hex": "#959980"
-    },
-    "Army_Painter": {
-      "name": "Filthy Cape",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Cygnar Base Blue",
-      "type": "Formula",
-      "hex": "#124b9b"
-    },
-    "Citadel": {
-      "name": "Altdorf Guard Blue",
-      "type": "Base Layer",
-      "hex": "#274b9b"
-    },
-    "Vallejo_Game": {
-      "name": "Magic Blue",
-      "type": "Game",
-      "hex": "#024381"
-    },
-    "P3": {
-      "name": "Royal Blue",
-      "type": "Model",
-      "hex": "#41558d"
-    },
-    "Army_Painter": {
-      "name": "Ultramarine Blue",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Cygnar Blue Highlight",
-      "type": "Formula",
-      "hex": "#1f75bb"
-    },
-    "Citadel": {
-      "name": "Teclis Blue",
-      "type": "Base Layer",
-      "hex": "#387bbf"
-    },
-    "Vallejo_Game": {
-      "name": "Electric Blue",
-      "type": "Game",
-      "hex": "#008cbf"
-    },
-    "P3": {
-      "name": "Flat Blue",
-      "type": "Model",
-      "hex": "#336991"
-    },
-    "Army_Painter": {
-      "name": "Crystal Blue",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Cygnus Yellow",
-      "type": "Formula",
-      "hex": "#f3e72e"
-    },
-    "Citadel": {
-      "name": "Flash Gitz Yellow",
-      "type": "Base Layer",
-      "hex": "#ffee00"
-    },
-    "Vallejo_Game": {
-      "name": "Fluo Yellow",
-      "type": "Game",
-      "hex": "#eeea50"
-    },
-    "P3": {
-      "name": "Deep Yellow",
-      "type": "Model",
-      "hex": "#ffe30c"
-    },
-    "Army_Painter": {
-      "name": "Babe Blonde",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Ember Orange",
-      "type": "Formula",
-      "hex": "#de8a2b"
-    },
-    "Citadel": {
-      "name": "Bestigor Flesh",
-      "type": "Base Layer",
-      "hex": "#D38A57"
-    },
-    "Vallejo_Game": {
-      "name": "Scrofulous Brown",
-      "type": "Game",
-      "hex": "#d68030"
-    },
-    "P3": {
-      "name": "Light Orange",
-      "type": "Model",
-      "hex": "#f68627"
-    },
-    "Army_Painter": {
-      "name": "Basilisk Brown",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Exile Blue",
-      "type": "Formula",
-      "hex": "#203367"
-    },
-    "Citadel": {
-      "name": "Macragge Blue",
-      "type": "Base Layer",
-      "hex": "#14397a"
-    },
-    "Vallejo_Game": {
-      "name": "Dark Blue",
-      "type": "Game",
-      "hex": "#2b265d"
-    },
-    "P3": {
-      "name": "Blue",
-      "type": "Model",
-      "hex": "#043667"
-    },
-    "Army_Painter": {
-      "name": "Deep Blue",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Frostbite",
-      "type": "Formula",
-      "hex": "#e7f2f8"
-    },
-    "Citadel": {
-      "name": "Ceramite White",
-      "type": "Base Layer",
-      "hex": "#ffffff"
-    },
-    "Vallejo_Game": {
-      "name": "Dead White",
-      "type": "Game",
-      "hex": "#ffffff"
-    },
-    "P3": {
-      "name": "White Grey",
-      "type": "Model",
-      "hex": "#eef1ec"
-    },
-    "Army_Painter": {
-      "name": "Matt White",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Gnarls Green",
-      "type": "Formula",
-      "hex": "#126232"
-    },
-    "Citadel": {
-      "name": "Waaagh! Flesh",
-      "type": "Base Layer",
-      "hex": "#275627"
-    },
-    "Vallejo_Game": {
-      "name": "Sick Green",
-      "type": "Game",
-      "hex": "#096638"
-    },
-    "P3": {
-      "name": "Flat Green",
-      "type": "Model",
-      "hex": "#2a6531"
-    },
-    "Army_Painter": {
-      "name": "Greenskin",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Greatcoat Grey",
-      "type": "Formula",
-      "hex": "#4d5861"
-    },
-    "Citadel": {
-      "name": "Eshin Grey",
-      "type": "Base Layer",
-      "hex": "#535659"
-    },
-    "Vallejo_Game": {
-      "name": "Cold Grey",
-      "type": "Game",
-      "hex": "#54646d"
-    },
-    "P3": {
-      "name": "London Grey",
-      "type": "Model",
-      "hex": "#4a555e"
-    },
-    "Army_Painter": {
-      "name": "Uniform Grey",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Gun Corps Brown",
-      "type": "Formula",
-      "hex": "#937d48"
-    },
-    "Citadel": {
-      "name": "Baneblade Brown",
-      "type": "Base Layer",
-      "hex": "#99826b"
-    },
-    "Vallejo_Game": {
-      "name": "Desert Yellow",
-      "type": "Game",
-      "hex": "#8e7845"
-    },
-    "P3": {
-      "name": "Japan Uniform WW2",
-      "type": "Model",
-      "hex": "#998546"
-    },
-    "Army_Painter": {
-      "name": "Hemp Rope",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Hammerfall Khaki",
-      "type": "Formula",
-      "hex": "#c8bf98"
-    },
-    "Citadel": {
-      "name": "Krieg Khaki",
-      "type": "Edge",
-      "hex": "#C0BD81"
-    },
-    "Vallejo_Game": {
-      "name": "Elfic Flesh",
-      "type": "Game",
-      "hex": "#cdc29c"
-    },
-    "P3": {
-      "name": "Pale Sand",
-      "type": "Model",
-      "hex": "#d1c49c"
-    },
-    "Army_Painter": {
-      "name": "Skeleton Bone",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Heartfire",
-      "type": "Formula",
-      "hex": "#f6b046"
-    },
-    "Citadel": {
-      "name": "Ungor Flesh",
-      "type": "Base Layer",
-      "hex": "#dbac63"
-    },
-    "Vallejo_Game": {
-      "name": "Gold Yellow",
-      "type": "Game",
-      "hex": "#fdb318"
-    },
-    "P3": {
-      "name": "Sunny Skintone",
-      "type": "Model",
-      "hex": "#f4b171"
-    },
-    "Army_Painter": {
-      "name": "Phoenix Flames",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Idrian Flesh",
-      "type": "Formula",
-      "hex": "#9b5e37"
-    },
-    "Citadel": {
-      "name": "Ratskin Flesh",
-      "type": "Base Layer",
-      "hex": "#AD6B4C"
-    },
-    "Vallejo_Game": {
-      "name": "Parasite Brown",
-      "type": "Game",
-      "hex": "#b1481f"
-    },
-    "P3": {
-      "name": "Flat Earth",
-      "type": "Model",
-      "hex": "#87643c"
-    },
-    "Army_Painter": {
-      "name": "Monster Brown",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Iosan Green",
-      "type": "Formula",
-      "hex": "#22a854"
-    },
-    "Citadel": {
-      "name": "Sybarite Green",
-      "type": "Base Layer",
-      "hex": "#36a062"
-    },
-    "Vallejo_Game": {
-      "name": "Scorpion Green",
-      "type": "Game",
-      "hex": "#48b851"
-    },
-    "P3": {
-      "name": "Light Green",
-      "type": "Model",
-      "hex": "#00a850"
-    },
-    "Army_Painter": {
-      "name": "Goblin Green",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Ironhull Grey",
-      "type": "Formula",
-      "hex": "#8e969b"
-    },
-    "Citadel": {
-      "name": "Slaanesh Grey",
-      "type": "Base Layer",
-      "hex": "#8E8C97"
-    },
-    "Vallejo_Game": {
-      "name": "Stonewall Grey",
-      "type": "Game",
-      "hex": "#828e95"
-    },
-    "P3": {
-      "name": "Medium Sea Grey",
-      "type": "Model",
-      "hex": "#869393"
-    },
-    "Army_Painter": {
-      "name": "Ash Grey",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Jack Bone",
-      "type": "Formula",
-      "hex": "#d6d4aa"
-    },
-    "Citadel": {
-      "name": "Screaming Skull",
-      "type": "Base Layer",
-      "hex": "#d9d8a6"
-    },
-    "Vallejo_Game": {
-      "name": "Elfic Flesh",
-      "type": "Game",
-      "hex": "#cdc29c"
-    },
-    "P3": {
-      "name": "Buff",
-      "type": "Model",
-      "hex": "#d2ca9f"
-    },
-    "Army_Painter": {
-      "name": "Skeleton Bone",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Khador Red Base",
-      "type": "Formula",
-      "hex": "#ee2824"
-    },
-    "Citadel": {
-      "name": "Jokaero Orange",
-      "type": "Base Layer",
-      "hex": "#e6200f"
-    },
-    "Vallejo_Game": {
-      "name": "Hot Orange",
-      "type": "Game",
-      "hex": "#e43027"
-    },
-    "P3": {
-      "name": "Scarlet",
-      "type": "Model",
-      "hex": "#da3630"
-    },
-    "Army_Painter": {
-      "name": "Mythical Orange",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Khador Red Highlight",
-      "type": "Formula",
-      "hex": "#f29042"
-    },
-    "Citadel": {
-      "name": "Fire Dragon Bright",
-      "type": "Base Layer",
-      "hex": "#f1844a"
-    },
-    "Vallejo_Game": {
-      "name": "Filthy Brown",
-      "type": "Game",
-      "hex": "#f58d2b"
-    },
-    "P3": {
-      "name": "Light Orange",
-      "type": "Model",
-      "hex": "#f68627"
-    },
-    "Army_Painter": {
-      "name": "Barbarian Flesh",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Khardic Flesh",
-      "type": "Formula",
-      "hex": "#cb7b5b"
-    },
-    "Citadel": {
-      "name": "Cadian Fleshtone",
-      "type": "Base Layer",
-      "hex": "#cb7953"
-    },
-    "Vallejo_Game": {
-      "name": "Dwarf Skin",
-      "type": "Game",
-      "hex": "#cc7c67"
-    },
-    "P3": {
-      "name": "Light Brown",
-      "type": "Model",
-      "hex": "#bf764e"
-    },
-    "Army_Painter": {
-      "name": "Tanned Flesh",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Menoth White Base",
-      "type": "Formula",
-      "hex": "#efefbb"
-    },
-    "Citadel": {
-      "name": "Screaming Skull",
-      "type": "Base Layer",
-      "hex": "#d9d8a6"
-    },
-    "Vallejo_Game": {
-      "name": "Offwhite",
-      "type": "Game",
-      "hex": "#f5f4da"
-    },
-    "P3": {
-      "name": "Ivory",
-      "type": "Model",
-      "hex": "#eff1d9"
-    },
-    "Army_Painter": {
-      "name": "Arid Earth",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Menoth White Highlight",
-      "type": "Formula",
-      "hex": "#f3f4de"
-    },
-    "Citadel": {
-      "name": "Ceramite White",
-      "type": "Base Layer",
-      "hex": "#ffffff"
-    },
-    "Vallejo_Game": {
-      "name": "Offwhite",
-      "type": "Game",
-      "hex": "#f5f4da"
-    },
-    "P3": {
-      "name": "Ivory",
-      "type": "Model",
-      "hex": "#eff1d9"
-    },
-    "Army_Painter": {
-      "name": "Brainmatter Beige",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Meredius Blue",
-      "type": "Formula",
-      "hex": "#00b0b9"
-    },
-    "Citadel": {
-      "name": "Baharroth Blue",
-      "type": "Edge",
-      "hex": "#58C1CD"
-    },
-    "Vallejo_Game": {
-      "name": "Heavy Blue Grey",
-      "type": "Game",
-      "hex": "#9ca7a7"
-    },
-    "P3": {
-      "name": "Pale Blue",
-      "type": "Model",
-      "hex": "#83b5b2"
-    },
-    "Army_Painter": {
-      "name": "Toxic Mist",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Midlund Flesh",
-      "type": "Formula",
-      "hex": "#f0a983"
-    },
-    "Citadel": {
-      "name": "Lugganath Orange",
-      "type": "Edge",
-      "hex": "#F79E86"
-    },
-    "Vallejo_Game": {
-      "name": "Elf Skintone",
-      "type": "Game",
-      "hex": "#f8a070"
-    },
-    "P3": {
-      "name": "Basic Skintone",
-      "type": "Model",
-      "hex": "#fbbc8c"
-    },
-    "Army_Painter": {
-      "name": "Barbarian Flesh",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Moldy Ochre",
-      "type": "Formula",
-      "hex": "#ddb43e"
-    },
-    "Citadel": {
-      "name": "Zamesi Desert",
-      "type": "Base Layer",
-      "hex": "#e0a503"
-    },
-    "Vallejo_Game": {
-      "name": "Pale Yellow",
-      "type": "Game",
-      "hex": "#d5c179"
-    },
-    "P3": {
-      "name": "Sand Yellow",
-      "type": "Model",
-      "hex": "#d7bf75"
-    },
-    "Army_Painter": {
-      "name": "Phoenix Flames",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Morrow White",
-      "type": "Formula",
-      "hex": "#FEFBFD"
-    },
-    "Citadel": {
-      "name": "Ceramite White",
-      "type": "Base Layer",
-      "hex": "#ffffff"
-    },
-    "Vallejo_Game": {
-      "name": "Dead White",
-      "type": "Game",
-      "hex": "#ffffff"
-    },
-    "P3": {
-      "name": "White",
-      "type": "Model",
-      "hex": "#ffffff"
-    },
-    "Army_Painter": {
-      "name": "Matt White",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Murderous Magenta",
-      "type": "Formula",
-      "hex": "#a81f5e"
-    },
-    "Citadel": {
-      "name": "Pink Horror",
-      "type": "Base Layer",
-      "hex": "#96325c"
-    },
-    "Vallejo_Game": {
-      "name": "Warlord Purple",
-      "type": "Game",
-      "hex": "#7d1a44"
-    },
-    "P3": {
-      "name": "Magenta",
-      "type": "Model",
-      "hex": "#a92a56"
-    },
-    "Army_Painter": {
-      "name": "Wasteland Soil",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Necrotite Green",
-      "type": "Formula",
-      "hex": "#7fc348"
-    },
-    "Citadel": {
-      "name": "Moot Green",
-      "type": "Base Layer",
-      "hex": "#57aa2d"
-    },
-    "Vallejo_Game": {
-      "name": "Fluo Green",
-      "type": "Game",
-      "hex": "#9dcd64"
-    },
-    "P3": {
-      "name": "Lime Green",
-      "type": "Model",
-      "hex": "#6fae4e"
-    },
-    "Army_Painter": {
-      "name": "Snake Scales",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Ordic Olive",
-      "type": "Formula",
-      "hex": "#6e7e36"
-    },
-    "Citadel": {
-      "name": "Loren Forest",
-      "type": "Base Layer",
-      "hex": "#5b7426"
-    },
-    "Vallejo_Game": {
-      "name": "Camoflage Green",
-      "type": "Game",
-      "hex": "#71753a"
-    },
-    "P3": {
-      "name": "Olive Green",
-      "type": "Model",
-      "hex": "#6a8b3a"
-    },
-    "Army_Painter": {
-      "name": "Army Green",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Rucksack Tan",
-      "type": "Formula",
-      "hex": "#b4973f"
-    },
-    "Citadel": {
-      "name": "Zandri Dust",
-      "type": "Base Layer",
-      "hex": "#a89758"
-    },
-    "Vallejo_Game": {
-      "name": "Plague Brown",
-      "type": "Game",
-      "hex": "#cc9b34"
-    },
-    "P3": {
-      "name": "Desert Yellow",
-      "type": "Model",
-      "hex": "#b19151"
-    },
-    "Army_Painter": {
-      "name": "Desert Yellow",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Ryn Flesh",
-      "type": "Formula",
-      "hex": "#fae3d1"
-    },
-    "Citadel": {
-      "name": "Pallid Wych Flesh",
-      "type": "Base Layer",
-      "hex": "#d6d5c4"
-    },
-    "Vallejo_Game": {
-      "name": "Offwhite",
-      "type": "Game",
-      "hex": "#f5f4da"
-    },
-    "P3": {
-      "name": "Light Flesh",
-      "type": "Model",
-      "hex": "#feedd0"
-    },
-    "Army_Painter": {
-      "name": "Mummy Robes",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Sanguine Base",
-      "type": "Formula",
-      "hex": "#6c160f"
-    },
-    "Citadel": {
-      "name": "Mournfang Brown",
-      "type": "Base Layer",
-      "hex": "#681104"
-    },
-    "Vallejo_Game": {
-      "name": "Terracota",
-      "type": "Game",
-      "hex": "#6b1306"
-    },
-    "P3": {
-      "name": "Hull Red",
-      "type": "Model",
-      "hex": "#522724"
-    },
-    "Army_Painter": {
-      "name": "Chaotic Red",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Sanguine Highlight",
-      "type": "Formula",
-      "hex": "#c84959"
-    },
-    "Citadel": {
-      "name": "Squig Orange",
-      "type": "Base Layer",
-      "hex": "#b04d3e"
-    },
-    "Vallejo_Game": {
-      "name": "Scarlet \"Blood\" Red",
-      "type": "Game",
-      "hex": "#b72a38"
-    },
-    "P3": {
-      "name": "Sunset Red",
-      "type": "Model",
-      "hex": "#c22c5f"
-    },
-    "Army_Painter": {
-      "name": "Warlock Purple",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Skorne Red",
-      "type": "Formula",
-      "hex": "#b01f24"
-    },
-    "Citadel": {
-      "name": "Evil Suns Scarlet",
-      "type": "Base Layer",
-      "hex": "#c00b0c"
-    },
-    "Vallejo_Game": {
-      "name": "Bloody Red",
-      "type": "Game",
-      "hex": "#bf282e"
-    },
-    "P3": {
-      "name": "Carmine Red",
-      "type": "Model",
-      "hex": "#b73035"
-    },
-    "Army_Painter": {
-      "name": "Dragon Red",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Sulfuric Yellow",
-      "type": "Formula",
-      "hex": "#f0d233"
-    },
-    "Citadel": {
-      "name": "Yriel Yellow",
-      "type": "Base Layer",
-      "hex": "#ffda00"
-    },
-    "Vallejo_Game": {
-      "name": "Sun Yellow",
-      "type": "Game",
-      "hex": "#ffcf07"
-    },
-    "P3": {
-      "name": "Flat Yellow",
-      "type": "Model",
-      "hex": "#ffcd25"
-    },
-    "Army_Painter": {
-      "name": "Daemonic Yellow",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Thamar Black",
-      "type": "Formula",
-      "hex": "#040707"
-    },
-    "Citadel": {
-      "name": "Abaddon Black",
-      "type": "Base Layer",
-      "hex": "#010100"
-    },
-    "Vallejo_Game": {
-      "name": "Black",
-      "type": "Game",
-      "hex": "#000000"
-    },
-    "P3": {
-      "name": "Glossy Black",
-      "type": "Model",
-      "hex": "#010101"
-    },
-    "Army_Painter": {
-      "name": "Matt Black",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Thornwood Green",
-      "type": "Formula",
-      "hex": "#65654b"
-    },
-    "Citadel": {
-      "name": "Steel Legion Drab",
-      "type": "Base Layer",
-      "hex": "#695634"
-    },
-    "Vallejo_Game": {
-      "name": "Heavy Grey",
-      "type": "Game",
-      "hex": "#626d54"
-    },
-    "P3": {
-      "name": "Russian Uniform WW2",
-      "type": "Model",
-      "hex": "#606d53"
-    },
-    "Army_Painter": {
-      "name": "Crypt Wraith",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Thrall Flesh",
-      "type": "Formula",
-      "hex": "#ced9ad"
-    },
-    "Citadel": {
-      "name": "Screaming Skull",
-      "type": "Base Layer",
-      "hex": "#d9d8a6"
-    },
-    "Vallejo_Game": {
-      "name": "Elfic Flesh",
-      "type": "Game",
-      "hex": "#cdc29c"
-    },
-    "P3": {
-      "name": "Buff",
-      "type": "Model",
-      "hex": "#d2ca9f"
-    },
-    "Army_Painter": {
-      "name": "Drake Tooth",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Traitor Green",
-      "type": "Formula",
-      "hex": "#809065"
-    },
-    "Citadel": {
-      "name": "Death Guard Armor",
-      "type": "Base Layer",
-      "hex": "#848A66"
-    },
-    "Vallejo_Game": {
-      "name": "Heavy Warm Grey",
-      "type": "Game",
-      "hex": "#939066"
-    },
-    "P3": {
-      "name": "Khaki",
-      "type": "Model",
-      "hex": "#969163"
-    },
-    "Army_Painter": {
-      "name": "Combat Fatigue",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Trollblood Base",
-      "type": "Formula",
-      "hex": "#13899b"
-    },
-    "Citadel": {
-      "name": "Ahriman Blue",
-      "type": "Base Layer",
-      "hex": "#1F8C9C"
-    },
-    "Vallejo_Game": {
-      "name": "Steel Grey",
-      "type": "Game",
-      "hex": "#64889d"
-    },
-    "P3": {
-      "name": "Turquoise",
-      "type": "Model",
-      "hex": "#008e9c"
-    },
-    "Army_Painter": {
-      "name": "Hydra Turquoise",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Trollblood Highlight",
-      "type": "Formula",
-      "hex": "#bab4a3"
-    },
-    "Citadel": {
-      "name": "Rakarth Flesh",
-      "type": "Base Layer",
-      "hex": "#aba495"
-    },
-    "Vallejo_Game": {
-      "name": "Elfic Flesh",
-      "type": "Game",
-      "hex": "#cdc29c"
-    },
-    "P3": {
-      "name": "Sky Grey",
-      "type": "Model",
-      "hex": "#b3b6b2"
-    },
-    "Army_Painter": {
-      "name": "Banshee Brown",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Umbral Umber",
-      "type": "Formula",
-      "hex": "#260801"
-    },
-    "Citadel": {
-      "name": "Abaddon Black",
-      "type": "Base Layer",
-      "hex": "#010100"
-    },
-    "Vallejo_Game": {
-      "name": "Black",
-      "type": "Game",
-      "hex": "#000000"
-    },
-    "P3": {
-      "name": "Glossy Black",
-      "type": "Model",
-      "hex": "#010101"
-    },
-    "Army_Painter": {
-      "name": "Matt Black",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Underbelly Blue",
-      "type": "Formula",
-      "hex": "#c0d4da"
-    },
-    "Citadel": {
-      "name": "Ulthuan Grey",
-      "type": "Base Layer",
-      "hex": "#d2e4df"
-    },
-    "Vallejo_Game": {
-      "name": "Verdigris",
-      "type": "Game",
-      "hex": "#b3ceca"
-    },
-    "P3": {
-      "name": "Pale Grey Blue",
-      "type": "Model",
-      "hex": "#bacdd0"
-    },
-    "Army_Painter": {
-      "name": "Spaceship Exterior",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  },
-  {
-    "Vallejo_Model": {
-      "name": "Wurm Green",
-      "type": "Formula",
-      "hex": "#8fbe40"
-    },
-    "Citadel": {
-      "name": "Ogryn Camo",
-      "type": "Base Layer",
-      "hex": "#a9af42"
-    },
-    "Vallejo_Game": {
-      "name": "Fluo Green",
-      "type": "Game",
-      "hex": "#9dcd64"
-    },
-    "P3": {
-      "name": "Lime Green",
-      "type": "Model",
-      "hex": "#6fae4e"
-    },
-    "Army_Painter": {
-      "name": "Snake Scales",
-      "type": "Army_Painter",
-      "hex": null
-    }
-  }
-]
+{
+    "version": "1.0",
+    "data": [
+        {
+            "Citadel_Name": "Lugganath Orange",
+            "Citadel_Type": "Edge",
+            "Citadel_Hex": "#F79E86",
+            "Vallejo_Game_Name": "Elf Skintone",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#f8a070",
+            "Vallejo_Model_Name": "Midlund Flesh",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#f0a983",
+            "P3_Name": "Basic Skintone",
+            "P3_Type": "Model",
+            "P3_Hex": "#fbbc8c",
+            "Army_Painter_Name": "Barbarian Flesh",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#e89c6c"
+        },
+        {
+            "Citadel_Name": "Macragge Blue",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#14397a",
+            "Vallejo_Game_Name": "Dark Blue",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#2b265d",
+            "Vallejo_Model_Name": "Exile Blue",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#203367",
+            "P3_Name": "Blue",
+            "P3_Type": "Model",
+            "P3_Hex": "#043667",
+            "Army_Painter_Name": "Deep Blue",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#083251"
+        },
+        {
+            "Citadel_Name": "Sotek Green",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#056976",
+            "Vallejo_Game_Name": "Turquoise",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#03676f",
+            "Vallejo_Model_Name": "Coal Black",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#005a61",
+            "P3_Name": "Bronce Green",
+            "P3_Type": "Model",
+            "P3_Hex": "#2a534f",
+            "Army_Painter_Name": "Wizards Orb",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#00726a"
+        },
+        {
+            "Citadel_Name": "Screaming Skull",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#d9d8a6",
+            "Vallejo_Game_Name": "Elfic Flesh",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#cdc29c",
+            "Vallejo_Model_Name": "Jack Bone",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#d6d4aa",
+            "P3_Name": "Buff",
+            "P3_Type": "Model",
+            "P3_Hex": "#d2ca9f",
+            "Army_Painter_Name": "Skeleton Bone",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#d3c89d"
+        },
+        {
+            "Citadel_Name": "Screaming Skull",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#d9d8a6",
+            "Vallejo_Game_Name": "Elfic Flesh",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#cdc29c",
+            "Vallejo_Model_Name": "Thrall Flesh",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#ced9ad",
+            "P3_Name": "Buff",
+            "P3_Type": "Model",
+            "P3_Hex": "#d2ca9f",
+            "Army_Painter_Name": "Drake Tooth",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#cfcbb4"
+        },
+        {
+            "Citadel_Name": "Evil Suns Scarlet",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#c00b0c",
+            "Vallejo_Game_Name": "Bloody Red",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#bf282e",
+            "Vallejo_Model_Name": "Skorne Red",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#b01f24",
+            "P3_Name": "Carmine Red",
+            "P3_Type": "Model",
+            "P3_Hex": "#b73035",
+            "Army_Painter_Name": "Dragon Red",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#9a1b1e"
+        },
+        {
+            "Citadel_Name": "Flash Gitz Yellow",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#ffee00",
+            "Vallejo_Game_Name": "Fluo Yellow",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#eeea50",
+            "Vallejo_Model_Name": "Cygnus Yellow",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#f3e72e",
+            "P3_Name": "Deep Yellow",
+            "P3_Type": "Model",
+            "P3_Hex": "#ffe30c",
+            "Army_Painter_Name": "Babe Blonde",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#f8dd0d"
+        },
+        {
+            "Citadel_Name": "Zandri Dust",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#a89758",
+            "Vallejo_Game_Name": "Plague Brown",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#cc9b34",
+            "Vallejo_Model_Name": "Rucksack Tan",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#b4973f",
+            "P3_Name": "Desert Yellow",
+            "P3_Type": "Model",
+            "P3_Hex": "#b19151",
+            "Army_Painter_Name": "Desert Yellow",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#c7952c"
+        },
+        {
+            "Citadel_Name": "Teclis Blue",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#387bbf",
+            "Vallejo_Game_Name": "Electric Blue",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#008cbf",
+            "Vallejo_Model_Name": "Cygnar Blue Highlight",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#1f75bb",
+            "P3_Name": "Flat Blue",
+            "P3_Type": "Model",
+            "P3_Hex": "#336991",
+            "Army_Painter_Name": "Crystal Blue",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#0083c2"
+        },
+        {
+            "Citadel_Name": "Balor Brown",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#915e02",
+            "Vallejo_Game_Name": "Heavy Ochre",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#a87536",
+            "Vallejo_Model_Name": "Bootstrap Leather",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#956939",
+            "P3_Name": "Flat Earth",
+            "P3_Type": "Model",
+            "P3_Hex": "#87643c",
+            "Army_Painter_Name": "Monster Brown",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#855c2a"
+        },
+        {
+            "Citadel_Name": "Ratskin Flesh",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#AD6B4C",
+            "Vallejo_Game_Name": "Parasite Brown",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#b1481f",
+            "Vallejo_Model_Name": "Idrian Flesh",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#9b5e37",
+            "P3_Name": "Flat Earth",
+            "P3_Type": "Model",
+            "P3_Hex": "#87643c",
+            "Army_Painter_Name": "Monster Brown",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#855c2a"
+        },
+        {
+            "Citadel_Name": "Waaagh! Flesh",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#275627",
+            "Vallejo_Game_Name": "Sick Green",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#096638",
+            "Vallejo_Model_Name": "Gnarls Green",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#126232",
+            "P3_Name": "Flat Green",
+            "P3_Type": "Model",
+            "P3_Hex": "#2a6531",
+            "Army_Painter_Name": "Greenskin",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#136232"
+        },
+        {
+            "Citadel_Name": "Yriel Yellow",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#ffda00",
+            "Vallejo_Game_Name": "Sun Yellow",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#ffcf07",
+            "Vallejo_Model_Name": "Sulfuric Yellow",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#f0d233",
+            "P3_Name": "Flat Yellow",
+            "P3_Type": "Model",
+            "P3_Hex": "#ffcd25",
+            "Army_Painter_Name": "Daemonic Yellow",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#fada06"
+        },
+        {
+            "Citadel_Name": "Dryad Bark",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#3b342e",
+            "Vallejo_Game_Name": "Smokey Ink",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#2b2325",
+            "Vallejo_Model_Name": "Battlefield Brown",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#32251c",
+            "P3_Name": "German Cam. Black Brown",
+            "P3_Type": "Model",
+            "P3_Hex": "#553528",
+            "Army_Painter_Name": "Matt Black",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#231f20"
+        },
+        {
+            "Citadel_Name": "Abaddon Black",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#010100",
+            "Vallejo_Game_Name": "Black",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#000000",
+            "Vallejo_Model_Name": "Thamar Black",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#040707",
+            "P3_Name": "Glossy Black",
+            "P3_Type": "Model",
+            "P3_Hex": "#010101",
+            "Army_Painter_Name": "Matt Black",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#231f20"
+        },
+        {
+            "Citadel_Name": "Abaddon Black",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#010100",
+            "Vallejo_Game_Name": "Black",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#000000",
+            "Vallejo_Model_Name": "Umbral Umber",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#260801",
+            "P3_Name": "Glossy Black",
+            "P3_Type": "Model",
+            "P3_Hex": "#010101",
+            "Army_Painter_Name": "Matt Black",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#231f20"
+        },
+        {
+            "Citadel_Name": "Death World Forest",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#666c2d",
+            "Vallejo_Game_Name": "Camoflage Green",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#71753a",
+            "Vallejo_Model_Name": "Battledress Green",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#757232",
+            "P3_Name": "Green Brown",
+            "P3_Type": "Model",
+            "P3_Hex": "#8d7b55",
+            "Army_Painter_Name": "Commando Green",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#827b39"
+        },
+        {
+            "Citadel_Name": "Dawnstone",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#7b7e74",
+            "Vallejo_Game_Name": "Khaki",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#8c806d",
+            "Vallejo_Model_Name": "Bastion Grey",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#777965",
+            "P3_Name": "Green Grey",
+            "P3_Type": "Model",
+            "P3_Hex": "#827e61",
+            "Army_Painter_Name": "Filthy Cape",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#7c7863"
+        },
+        {
+            "Citadel_Name": "Mournfang Brown",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#681104",
+            "Vallejo_Game_Name": "Terracota",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#6b1306",
+            "Vallejo_Model_Name": "Sanguine Base",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#6c160f",
+            "P3_Name": "Hull Red",
+            "P3_Type": "Model",
+            "P3_Hex": "#522724",
+            "Army_Painter_Name": "Chaotic Red",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#6c1e10"
+        },
+        {
+            "Citadel_Name": "Karak Stone",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#c1a069",
+            "Vallejo_Game_Name": "Heavy Khaki",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#9d965d",
+            "Vallejo_Model_Name": "Beast Hide",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#b1956b",
+            "P3_Name": "Iraqi Sand",
+            "P3_Type": "Model",
+            "P3_Hex": "#b89972",
+            "Army_Painter_Name": "Kobold Skin",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#c9a484"
+        },
+        {
+            "Citadel_Name": "Screaming Skull",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#d9d8a6",
+            "Vallejo_Game_Name": "Offwhite",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#f5f4da",
+            "Vallejo_Model_Name": "Menoth White Base",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#efefbb",
+            "P3_Name": "Ivory",
+            "P3_Type": "Model",
+            "P3_Hex": "#eff1d9",
+            "Army_Painter_Name": "Arid Earth",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#faecc3"
+        },
+        {
+            "Citadel_Name": "Ceramite White",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#ffffff",
+            "Vallejo_Game_Name": "Offwhite",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#f5f4da",
+            "Vallejo_Model_Name": "Menoth White Highlight",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#f3f4de",
+            "P3_Name": "Ivory",
+            "P3_Type": "Model",
+            "P3_Hex": "#eff1d9",
+            "Army_Painter_Name": "Brainmatter Beige",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#f1f0e0"
+        },
+        {
+            "Citadel_Name": "Baneblade Brown",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#99826b",
+            "Vallejo_Game_Name": "Desert Yellow",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#8e7845",
+            "Vallejo_Model_Name": "Gun Corps Brown",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#937d48",
+            "P3_Name": "Japan Uniform WW2",
+            "P3_Type": "Model",
+            "P3_Hex": "#998546",
+            "Army_Painter_Name": "Hemp Rope",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#94763a"
+        },
+        {
+            "Citadel_Name": "Death Guard Armor",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#848A66",
+            "Vallejo_Game_Name": "Heavy Warm Grey",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#939066",
+            "Vallejo_Model_Name": "Traitor Green",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#809065",
+            "P3_Name": "Khaki",
+            "P3_Type": "Model",
+            "P3_Hex": "#969163",
+            "Army_Painter_Name": "Combat Fatigue",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#878e5c"
+        },
+        {
+            "Citadel_Name": "Cadian Fleshtone",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#cb7953",
+            "Vallejo_Game_Name": "Dwarf Skin",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#cc7c67",
+            "Vallejo_Model_Name": "Khardic Flesh",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#cb7b5b",
+            "P3_Name": "Light Brown",
+            "P3_Type": "Model",
+            "P3_Hex": "#bf764e",
+            "Army_Painter_Name": "Tanned Flesh",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#bc745e"
+        },
+        {
+            "Citadel_Name": "Pallid Wych Flesh",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#d6d5c4",
+            "Vallejo_Game_Name": "Offwhite",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#f5f4da",
+            "Vallejo_Model_Name": "Ryn Flesh",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#fae3d1",
+            "P3_Name": "Light Flesh",
+            "P3_Type": "Model",
+            "P3_Hex": "#feedd0",
+            "Army_Painter_Name": "Mummy Robes",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#ebded5"
+        },
+        {
+            "Citadel_Name": "Sybarite Green",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#36a062",
+            "Vallejo_Game_Name": "Scorpion Green",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#48b851",
+            "Vallejo_Model_Name": "Iosan Green",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#22a854",
+            "P3_Name": "Light Green",
+            "P3_Type": "Model",
+            "P3_Hex": "#00a850",
+            "Army_Painter_Name": "Goblin Green",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#348941"
+        },
+        {
+            "Citadel_Name": "Bestigor Flesh",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#D38A57",
+            "Vallejo_Game_Name": "Scrofulous Brown",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#d68030",
+            "Vallejo_Model_Name": "Ember Orange",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#de8a2b",
+            "P3_Name": "Light Orange",
+            "P3_Type": "Model",
+            "P3_Hex": "#f68627",
+            "Army_Painter_Name": "Basilisk Brown",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#cd8315"
+        },
+        {
+            "Citadel_Name": "Fire Dragon Bright",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#f1844a",
+            "Vallejo_Game_Name": "Filthy Brown",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#f58d2b",
+            "Vallejo_Model_Name": "Khador Red Highlight",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#f29042",
+            "P3_Name": "Light Orange",
+            "P3_Type": "Model",
+            "P3_Hex": "#f68627",
+            "Army_Painter_Name": "Barbarian Flesh",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#e89c6c"
+        },
+        {
+            "Citadel_Name": "Moot Green",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#57aa2d",
+            "Vallejo_Game_Name": "Fluo Green",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#9dcd64",
+            "Vallejo_Model_Name": "Necrotite Green",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#7fc348",
+            "P3_Name": "Lime Green",
+            "P3_Type": "Model",
+            "P3_Hex": "#6fae4e",
+            "Army_Painter_Name": "Snake Scales",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#8ab239"
+        },
+        {
+            "Citadel_Name": "Ogryn Camo",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#a9af42",
+            "Vallejo_Game_Name": "Fluo Green",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#9dcd64",
+            "Vallejo_Model_Name": "Wurm Green",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#8fbe40",
+            "P3_Name": "Lime Green",
+            "P3_Type": "Model",
+            "P3_Hex": "#6fae4e",
+            "Army_Painter_Name": "Snake Scales",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#8ab239"
+        },
+        {
+            "Citadel_Name": "Eshin Grey",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#535659",
+            "Vallejo_Game_Name": "Cold Grey",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#54646d",
+            "Vallejo_Model_Name": "Greatcoat Grey",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#4d5861",
+            "P3_Name": "London Grey",
+            "P3_Type": "Model",
+            "P3_Hex": "#4a555e",
+            "Army_Painter_Name": "Uniform Grey",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#5e6a73"
+        },
+        {
+            "Citadel_Name": "Pink Horror",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#96325c",
+            "Vallejo_Game_Name": "Warlord Purple",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#7d1a44",
+            "Vallejo_Model_Name": "Murderous Magenta",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#a81f5e",
+            "P3_Name": "Magenta",
+            "P3_Type": "Model",
+            "P3_Hex": "#a92a56",
+            "Army_Painter_Name": "Wasteland Soil",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#774b58"
+        },
+        {
+            "Citadel_Name": "Slaanesh Grey",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#8E8C97",
+            "Vallejo_Game_Name": "Stonewall Grey",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#828e95",
+            "Vallejo_Model_Name": "Ironhull Grey",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#8e969b",
+            "P3_Name": "Medium Sea Grey",
+            "P3_Type": "Model",
+            "P3_Hex": "#869393",
+            "Army_Painter_Name": "Ash Grey",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#a2a5a4"
+        },
+        {
+            "Citadel_Name": "Balor Brown",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#915e02",
+            "Vallejo_Game_Name": "Heavy Ochre",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#a87536",
+            "Vallejo_Model_Name": "Bloodtracker Brown",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#a66a28",
+            "P3_Name": "Ochre Brown",
+            "P3_Type": "Model",
+            "P3_Hex": "#a77237",
+            "Army_Painter_Name": "Hemp Rope",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#94763a"
+        },
+        {
+            "Citadel_Name": "Loren Forest",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#5b7426",
+            "Vallejo_Game_Name": "Camoflage Green",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#71753a",
+            "Vallejo_Model_Name": "Ordic Olive",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#6e7e36",
+            "P3_Name": "Olive Green",
+            "P3_Type": "Model",
+            "P3_Hex": "#6a8b3a",
+            "Army_Painter_Name": "Army Green",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#6e7645"
+        },
+        {
+            "Citadel_Name": "Baharroth Blue",
+            "Citadel_Type": "Edge",
+            "Citadel_Hex": "#58C1CD",
+            "Vallejo_Game_Name": "Heavy Blue Grey",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#9ca7a7",
+            "Vallejo_Model_Name": "Meredius Blue",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#00b0b9",
+            "P3_Name": "Pale Blue",
+            "P3_Type": "Model",
+            "P3_Hex": "#83b5b2",
+            "Army_Painter_Name": "Toxic Mist",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#39c0c5"
+        },
+        {
+            "Citadel_Name": "Baharroth Blue",
+            "Citadel_Type": "Edge",
+            "Citadel_Hex": "#58C1CD",
+            "Vallejo_Game_Name": "Verdigris",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#b3ceca",
+            "Vallejo_Model_Name": "Arcane Blue",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#7acfd9",
+            "P3_Name": "Pale Grey Blue",
+            "P3_Type": "Model",
+            "P3_Hex": "#bacdd0",
+            "Army_Painter_Name": "Toxic Mist",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#39c0c5"
+        },
+        {
+            "Citadel_Name": "Ulthuan Grey",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#d2e4df",
+            "Vallejo_Game_Name": "Verdigris",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#b3ceca",
+            "Vallejo_Model_Name": "Underbelly Blue",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#c0d4da",
+            "P3_Name": "Pale Grey Blue",
+            "P3_Type": "Model",
+            "P3_Hex": "#bacdd0",
+            "Army_Painter_Name": "Spaceship Exterior",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#cdced0"
+        },
+        {
+            "Citadel_Name": "Krieg Khaki",
+            "Citadel_Type": "Edge",
+            "Citadel_Hex": "#C0BD81",
+            "Vallejo_Game_Name": "Elfic Flesh",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#cdc29c",
+            "Vallejo_Model_Name": "Hammerfall Khaki",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#c8bf98",
+            "P3_Name": "Pale Sand",
+            "P3_Type": "Model",
+            "P3_Hex": "#d1c49c",
+            "Army_Painter_Name": "Skeleton Bone",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#d3c89d"
+        },
+        {
+            "Citadel_Name": "Skrag Brown",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#954b00",
+            "Vallejo_Game_Name": "Parasite Brown",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#b1481f",
+            "Vallejo_Model_Name": "Bloodstone",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#9e4822",
+            "P3_Name": "Red Leather",
+            "P3_Type": "Model",
+            "P3_Hex": "#93453d",
+            "Army_Painter_Name": "Fur Brown",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#a14322"
+        },
+        {
+            "Citadel_Name": "Altdorf Guard Blue",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#274b9b",
+            "Vallejo_Game_Name": "Magic Blue",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#024381",
+            "Vallejo_Model_Name": "Cygnar Base Blue",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#124b9b",
+            "P3_Name": "Royal Blue",
+            "P3_Type": "Model",
+            "P3_Hex": "#41558d",
+            "Army_Painter_Name": "Ultramarine Blue",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#0f4e85"
+        },
+        {
+            "Citadel_Name": "Xereus Purple",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#4b205c",
+            "Vallejo_Game_Name": "Heavy Violet",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#4c2e65",
+            "Vallejo_Model_Name": "Beaten Purple",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#552a72",
+            "P3_Name": "Royal Purple",
+            "P3_Type": "Model",
+            "P3_Hex": "#4b2967",
+            "Army_Painter_Name": "Alien Purple",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#50317b"
+        },
+        {
+            "Citadel_Name": "Steel Legion Drab",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#695634",
+            "Vallejo_Game_Name": "Heavy Grey",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#626d54",
+            "Vallejo_Model_Name": "Thornwood Green",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#65654b",
+            "P3_Name": "Russian Uniform WW2",
+            "P3_Type": "Model",
+            "P3_Hex": "#606d53",
+            "Army_Painter_Name": "Crypt Wraith",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#606050"
+        },
+        {
+            "Citadel_Name": "Zamesi Desert",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#e0a503",
+            "Vallejo_Game_Name": "Pale Yellow",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#d5c179",
+            "Vallejo_Model_Name": "Moldy Ochre",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#ddb43e",
+            "P3_Name": "Sand Yellow",
+            "P3_Type": "Model",
+            "P3_Hex": "#d7bf75",
+            "Army_Painter_Name": "Phoenix Flames",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#faa61a"
+        },
+        {
+            "Citadel_Name": "Jokaero Orange",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#e6200f",
+            "Vallejo_Game_Name": "Hot Orange",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#e43027",
+            "Vallejo_Model_Name": "Khador Red Base",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#ee2824",
+            "P3_Name": "Scarlet",
+            "P3_Type": "Model",
+            "P3_Hex": "#da3630",
+            "Army_Painter_Name": "Mythical Orange",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#e73d24"
+        },
+        {
+            "Citadel_Name": "Rakarth Flesh",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#aba495",
+            "Vallejo_Game_Name": "Elfic Flesh",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#cdc29c",
+            "Vallejo_Model_Name": "Trollblood Highlight",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#bab4a3",
+            "P3_Name": "Sky Grey",
+            "P3_Type": "Model",
+            "P3_Hex": "#b3b6b2",
+            "Army_Painter_Name": "Banshee Brown",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#c3b097"
+        },
+        {
+            "Citadel_Name": "Death Guard Armor",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#848A66",
+            "Vallejo_Game_Name": "Khaki",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#8c806d",
+            "Vallejo_Model_Name": "Cryx Bane Highlight",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#93907d",
+            "P3_Name": "Stone Grey",
+            "P3_Type": "Model",
+            "P3_Hex": "#959980",
+            "Army_Painter_Name": "Filthy Cape",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#7c7863"
+        },
+        {
+            "Citadel_Name": "Ungor Flesh",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#dbac63",
+            "Vallejo_Game_Name": "Gold Yellow",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#fdb318",
+            "Vallejo_Model_Name": "Heartfire",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#f6b046",
+            "P3_Name": "Sunny Skintone",
+            "P3_Type": "Model",
+            "P3_Hex": "#f4b171",
+            "Army_Painter_Name": "Phoenix Flames",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#faa61a"
+        },
+        {
+            "Citadel_Name": "Squig Orange",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#b04d3e",
+            "Vallejo_Game_Name": "Scarlet \"Blood\" Red",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#b72a38",
+            "Vallejo_Model_Name": "Sanguine Highlight",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#c84959",
+            "P3_Name": "Sunset Red",
+            "P3_Type": "Model",
+            "P3_Hex": "#c22c5f",
+            "Army_Painter_Name": "Warlock Purple",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#bb5b64"
+        },
+        {
+            "Citadel_Name": "Ahriman Blue",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#1F8C9C",
+            "Vallejo_Game_Name": "Steel Grey",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#64889d",
+            "Vallejo_Model_Name": "Trollblood Base",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#13899b",
+            "P3_Name": "Turquoise",
+            "P3_Type": "Model",
+            "P3_Hex": "#008e9c",
+            "Army_Painter_Name": "Hydra Turquoise",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#199ba3"
+        },
+        {
+            "Citadel_Name": "Ceramite White",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#ffffff",
+            "Vallejo_Game_Name": "Dead White",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#ffffff",
+            "Vallejo_Model_Name": "Morrow White",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#FEFBFD",
+            "P3_Name": "White",
+            "P3_Type": "Model",
+            "P3_Hex": "#ffffff",
+            "Army_Painter_Name": "Matt White",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#ffffff"
+        },
+        {
+            "Citadel_Name": "Ceramite White",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#ffffff",
+            "Vallejo_Game_Name": "Dead White",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#ffffff",
+            "Vallejo_Model_Name": "Carnal Pink",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#fae2ec",
+            "P3_Name": "White Grey",
+            "P3_Type": "Model",
+            "P3_Hex": "#eef1ec",
+            "Army_Painter_Name": "Mummy Robes",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#ebded5"
+        },
+        {
+            "Citadel_Name": "Ceramite White",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#ffffff",
+            "Vallejo_Game_Name": "Dead White",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#ffffff",
+            "Vallejo_Model_Name": "Frostbite",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#e7f2f8",
+            "P3_Name": "White Grey",
+            "P3_Type": "Model",
+            "P3_Hex": "#eef1ec",
+            "Army_Painter_Name": "Matt White",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#ffffff"
+        },
+        {
+            "Citadel_Name": "Dryad Bark",
+            "Citadel_Type": "Base Layer",
+            "Citadel_Hex": "#3b342e",
+            "Vallejo_Game_Name": "Dark Green",
+            "Vallejo_Game_Type": "Game",
+            "Vallejo_Game_Hex": "#083c2a",
+            "Vallejo_Model_Name": "Cryx Bane Base",
+            "Vallejo_Model_Type": "Formula",
+            "Vallejo_Model_Hex": "#303924",
+            "P3_Name": "Yellow Olive",
+            "P3_Type": "Model",
+            "P3_Hex": "#26392e",
+            "Army_Painter_Name": "Necromance Cloak",
+            "Army_Painter_Type": "Army_Painter",
+            "Army_Painter_Hex": "#3c3d37"
+        }
+    ]
+}
